@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'widgets/new_transaction.dart';
 import './models/transaction.dart';
 import './widgets/transactions_list.dart';
-
+// we can use sample library
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
